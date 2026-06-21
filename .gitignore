@@ -5,3 +5,8 @@ vendor/
 .hermes/
 env_inject.sh
 env_inject.ps1
+handbook_text.txt
+Forge2_Qualifier_Complete_Execution_Handbook.pdf
+install.ps1
+install_hermes.sh
+bin/
