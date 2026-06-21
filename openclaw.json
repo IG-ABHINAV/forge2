@@ -1,1 +1,36 @@
-{}
+{
+  "channels": {
+    "slack": {
+      "enabled": true,
+      "mode": "socket",
+      "appToken": {
+        "source": "env",
+        "provider": "default",
+        "id": "SLACK_APP_TOKEN"
+      },
+      "botToken": {
+        "source": "env",
+        "provider": "default",
+        "id": "SLACK_BOT_TOKEN"
+      }
+    }
+  },
+  "meta": {
+    "lastTouchedVersion": "2026.6.9",
+    "lastTouchedAt": "2026-06-21T07:06:51.894Z"
+  },
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "groq/llama-3.3-70b"
+      },
+      "models": {
+        "groq/llama-3.3-70b": {}
+      },
+      "workspace": "C:\\Users\\ad918\\.openclaw\\workspace"
+    }
+  },
+  "gateway": {
+    "mode": "local"
+  }
+}
