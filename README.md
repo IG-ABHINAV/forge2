@@ -2,9 +2,10 @@
 
 A premium, Trello-style collaborative Kanban Board application built autonomously by a two-agent AI system (Hermes + OpenClaw) orchestrated through Slack.
 
-**Live URL**: https://dist-7f3cr1pso-abhinav-dhawans-projects.vercel.app
+**Live URL**: https://dist-swart-iota-57.vercel.app
+**Backend URL**: https://forge2-qualifier-abhinavdhawan-production.up.railway.app
 
-> **Note**: The frontend is deployed on Vercel. The backend API runs locally (Laravel + SQLite). See run instructions below for full local setup.
+> **Note**: The frontend is deployed on Vercel and the backend API is deployed on Railway (Laravel + SQLite). Both are fully connected in the cloud.
 
 ---
 
