@@ -24,5 +24,3 @@ repost_hermes_thread.js
 windup_messages.js
 list_slack.js
 slack.patch.json
-.vite/
-frontend/.vite/
