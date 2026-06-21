@@ -27,10 +27,14 @@
       "models": {
         "groq/llama-3.3-70b": {}
       },
-      "workspace": "C:\\Users\\ad918\\.openclaw\\workspace"
+      "workspace": "f:\\FORGE 2"
     }
   },
   "gateway": {
-    "mode": "local"
+    "mode": "local",
+    "auth": {
+      "mode": "token",
+      "token": "my-secret-token-12345"
+    }
   }
 }

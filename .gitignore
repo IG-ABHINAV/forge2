@@ -10,3 +10,11 @@ Forge2_Qualifier_Complete_Execution_Handbook.pdf
 install.ps1
 install_hermes.sh
 bin/
+AGENTS.md
+BOOTSTRAP.md
+HEARTBEAT.md
+IDENTITY.md
+SOUL.md
+TOOLS.md
+USER.md
+openclaw-workspace-state.json
