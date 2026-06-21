@@ -3,8 +3,8 @@
     "slack": {
       "enabled": true,
       "mode": "socket",
-      "appToken": { "source": "env", "id": "SLACK_APP_TOKEN" },
-      "botToken": { "source": "env", "id": "SLACK_BOT_TOKEN" }
+      "appToken": { "source": "env", "provider": "default", "id": "SLACK_APP_TOKEN" },
+      "botToken": { "source": "env", "provider": "default", "id": "SLACK_BOT_TOKEN" }
     }
   }
 }
