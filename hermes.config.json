@@ -1,0 +1,16 @@
+{
+  "model": {
+    "provider": "google",
+    "model": "gemini-2.5-flash",
+    "apiKey": "${GEMINI_API_KEY}"
+  },
+  "memory": {
+    "enabled": true,
+    "persistence": "local",
+    "storagePath": "./.hermes/memory/"
+  },
+  "skills": {
+    "autoLearn": true,
+    "directory": "./skills"
+  }
+}
